@@ -8,7 +8,7 @@ El proyecto FE-Finanzas-TS es una aplicación desarrollada por el Equipo PSC que
 
 - TypeScript 5.2.2
 - Tailwind CSS 3.4.3
-- Vue.js 3.4.21
+- Vue 3 3.4.21
 - Vite 5.2.0
 - Node.js 20.3.1
 
@@ -40,3 +40,17 @@ Una vez instaladas las dependencias, puede ejecutar el proyecto utilizando el si
 
 ```bash
 npm run primo
+```
+
+## Web dondeo sacar icons
+
+Sitio web de icons usado en este proyecto:
+
+```bash
+https://feathericons.com
+```
+
+```bash
+https://fonts.google.com/icons
+```
+(solo se permiten vectores svg)
