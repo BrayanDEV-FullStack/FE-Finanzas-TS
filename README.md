@@ -1,7 +1,5 @@
 # Proyecto FE-Finanzas-TS
 
-![Logo del Proyecto](https://ejemplo.com/logo.png)
-
 ## Descripción
 
 El proyecto FE-Finanzas-TS es una aplicación desarrollada por el Equipo PSC que ofrece una solución completa para gestionar finanzas personales. La aplicación está desarrollada utilizando tecnologías modernas como TypeScript, Tailwind CSS, Vue.js, Vite y Node.js.
