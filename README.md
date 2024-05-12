@@ -1,9 +1,44 @@
-# Vue 3 + TypeScript + Vite
+# Proyecto FE-Finanzas-TS
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+![Logo del Proyecto](https://ejemplo.com/logo.png)
 
-## Recommended Setup
+## Descripción
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+El proyecto FE-Finanzas-TS es una aplicación desarrollada por el Equipo PSC que ofrece una solución completa para gestionar finanzas personales. La aplicación está desarrollada utilizando tecnologías modernas como TypeScript, Tailwind CSS, Vue.js, Vite y Node.js.
 
-- Use [vue-tsc](https://github.com/vuejs/language-tools/tree/master/packages/tsc) for performing the same type checking from the command line, or for generating d.ts files for SFCs.
+## Tecnologías Utilizadas
+
+- TypeScript 5.2.2
+- Tailwind CSS 3.4.3
+- Vue.js 3.4.21
+- Vite 5.2.0
+- Node.js 20.3.1
+
+## Instrucciones de Instalación
+
+Siga los siguientes pasos para instalar y ejecutar el proyecto en su máquina local:
+
+1. Clone el repositorio:
+
+    ```bash
+    git clone https://github.com/tu_usuario/FE-Finanzas-TS.git
+    ```
+
+2. Navegue al directorio del proyecto:
+
+    ```bash
+    cd FE-Finanzas-TS
+    ```
+
+3. Instale las dependencias del proyecto:
+
+    ```bash
+    npm install
+    ```
+
+## Ejecutar el Proyecto
+
+Una vez instaladas las dependencias, puede ejecutar el proyecto utilizando el siguiente comando:
+
+```bash
+npm run primo
