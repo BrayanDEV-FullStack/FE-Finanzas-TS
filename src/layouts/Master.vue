@@ -7,7 +7,9 @@
     </section>
     <section
       class="p-bg-gray rounded-2xl shadow-p-dark text-p-gray w-full h-max p-2 my-auto"
-    ></section>
+    >
+      <router-view />
+    </section>
     <footer class="text-p-gray w-full h-max p-2 mt-auto flex">
       <p class="mr-auto">
         Usuario <samp class="text-p-green">Oscar Matu</samp> .
