@@ -21,3 +21,21 @@
 .hover\:text-p-green:hover {
   color: #60d9b9;
 }
+.svg-grey{
+  fill:#9fabb7
+}
+.svg-green\:hover:hover{
+  fill:#60d9b9
+}
+
+.tooltip-content {
+  margin-top: .5rem;
+  margin-left: -1%;
+  display: none; 
+  position: absolute;
+  z-index: 999;
+}
+
+.tooltip:hover .tooltip-content {
+  display: block;
+}
